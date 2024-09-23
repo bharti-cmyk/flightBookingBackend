@@ -1,0 +1,7 @@
+node_modules/
+dist/
+deploy-pkg/
+build/
+.env
+package-lock.json
+.vercel
